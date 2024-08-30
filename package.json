@@ -1,0 +1,22 @@
+{
+  "name": "dictionary",
+  "version": "1.0.0",
+  "description": "My react dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Dictionary"
+  },
+  "keywords": [
+    "React",
+    "API"
+  ],
+  "author": "Thanusha Panaluwa",
+  "license": "ISC",
+  "dependencies": {
+    "create-react-app": "^5.0.1"
+  }
+}
