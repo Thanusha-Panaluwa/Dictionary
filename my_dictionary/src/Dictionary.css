@@ -1,0 +1,7 @@
+.container{
+    background-color: bisque;
+    margin-top: 10px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 5px rgb(235, 223, 205) inset;
+    padding: 10px;
+}

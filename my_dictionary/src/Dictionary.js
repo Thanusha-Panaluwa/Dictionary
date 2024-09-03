@@ -1,4 +1,6 @@
 import React from "react";
+import "./Dictionary.css";
+import SearchWord from "./SearchWord";
 
 export default function Dictionary(){
     return(
@@ -6,6 +8,7 @@ export default function Dictionary(){
             <p>
                 Hello!
             </p>
+            <SearchWord />
         </div>);
 
 }
